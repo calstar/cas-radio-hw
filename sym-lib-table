@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name rfm69hcw)(type Legacy)(uri /Users/dineshparimi/Documents/Berkeley/Other/CalSTAR/2019-20/cam-hardware/radio/hardware-sch-blocks/RFM69HCW/RFM69HCW-cache.lib)(options "")(descr ""))
   (lib (name radio-rescue)(type Legacy)(uri ${KIPRJMOD}/radio-rescue.lib)(options "")(descr ""))
+  (lib (name ANT-433-SP)(type Legacy)(uri ${KIPRJMOD}/ANT-433-SP.lib)(options "")(descr ""))
 )

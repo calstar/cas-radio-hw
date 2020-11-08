@@ -1,0 +1,12 @@
+(fp_lib_table
+  (lib (name radio)(type KiCad)(uri "C:/Users/jgolf/Google Drive/School/UC Berkeley/Calstar/cas-hardware/radio")(options "")(descr ""))
+  (lib (name hardware-sch-blocks)(type KiCad)(uri "C:/Users/jgolf/Google Drive/School/UC Berkeley/Calstar/cas-hardware/hardware-sch-blocks")(options "")(descr ""))
+  (lib (name BMP388_I2C)(type KiCad)(uri "C:/Users/jgolf/Google Drive/School/UC Berkeley/Calstar/cas-hardware/hardware-sch-blocks/BMP388_I2C")(options "")(descr ""))
+  (lib (name BNO055)(type KiCad)(uri "C:/Users/jgolf/Google Drive/School/UC Berkeley/Calstar/cas-hardware/hardware-sch-blocks/BNO055")(options "")(descr ""))
+  (lib (name CAS_bus)(type KiCad)(uri "C:/Users/jgolf/Google Drive/School/UC Berkeley/Calstar/cas-hardware/hardware-sch-blocks/CAS_bus")(options "")(descr ""))
+  (lib (name RFM69HCW)(type KiCad)(uri "C:/Users/jgolf/Google Drive/School/UC Berkeley/Calstar/cas-hardware/hardware-sch-blocks/RFM69HCW")(options "")(descr ""))
+  (lib (name SC18IS602BIPW)(type KiCad)(uri "C:/Users/jgolf/Google Drive/School/UC Berkeley/Calstar/cas-hardware/hardware-sch-blocks/SC18IS602BIPW")(options "")(descr ""))
+  (lib (name star-common-3d)(type KiCad)(uri "C:/Users/jgolf/Google Drive/School/UC Berkeley/Calstar/cas-hardware/hardware-sch-blocks/star-common-3d")(options "")(descr ""))
+  (lib (name star-common-lib)(type KiCad)(uri "C:/Users/jgolf/Google Drive/School/UC Berkeley/Calstar/cas-hardware/hardware-sch-blocks/star-common-lib.pretty")(options "")(descr ""))
+  (lib (name STM32F401RET6)(type KiCad)(uri "C:/Users/jgolf/Google Drive/School/UC Berkeley/Calstar/cas-hardware/hardware-sch-blocks/STM32F401RET6")(options "")(descr ""))
+)

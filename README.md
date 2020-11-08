@@ -1,4 +1,3 @@
-View this project on [CADLAB.io](https://cadlab.io/project/23053). 
+View this project on [CADLAB.io](https://cadlab.io/project/22829). 
 
-# cas-radio-hw
-Common Avionics Stack - Radio Module - Hardware
+# hardware-sch-blocks
