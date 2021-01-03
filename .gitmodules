@@ -1,4 +1,5 @@
-[submodule "hardware-sch-blocks"]
-	path = hardware-sch-blocks
-	url = https://github.com/calstar/hardware-sch-blocks.git
 
+
+[submodule "radio/hardware-sch-blocks"]
+	path = radio/hardware-sch-blocks
+	url = https://github.com/calstar/hardware-sch-blocks.git
